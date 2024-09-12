@@ -60,6 +60,6 @@ This project is licensed under the [License Name]. See the LICENSE file for more
 If you have any questions or inquiries, you can reach me at:
 
 - Email: [mohamedsaad20061@gmail.com]
-- GitHub: []
+- GitHub: [https://github.com/mohamedsaad2006/stats-preview-card-component-main]
 
 Thank you for your interest in the Stats Preview Card Component project!
