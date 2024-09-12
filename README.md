@@ -1,31 +1,42 @@
 # README
 
-## Project [Project Name]
+## Project Title: Stats Preview Card Component
 
-Welcome to the [Project Name]! This project aims to [brief description of the project's purpose].
+Welcome to the **Stats Preview Card Component** project! This project is a simple and responsive web component that displays insightful statistics to help businesses grow.
 
-### System Requirements
+### Description
 
-Before getting started, ensure you have the following requirements:
+This project showcases a stats preview card that highlights key metrics such as the number of companies, templates, and queries. It is designed to provide a clear and engaging presentation of data analytics benefits, helping users make informed decisions regarding revenue, customer experience, and overall efficiency.
 
-- [Requirement 1]
-- [Requirement 2]
-- [Requirement 3]
+### Features
+
+- Responsive design that adapts to different screen sizes.
+- Clean and modern UI with a focus on data presentation.
+- Easy to customize and extend.
+
+### Technologies Used
+
+- HTML
+- CSS
 
 ### Installation
 
-To install the project, follow these steps:
+To run this project locally, follow these steps:
 
 1. Clone the repository:
 git clone [repository link]
 2. Navigate to the project directory:
 cd [project folder name]
-3. Install the dependencies:
-[installation command, e.g., npm install or pip install -r requirements.txt]
+3. Open the  `index.html`  file in your web browser.
+
 ### Usage
 
-To run the project, use the following command:
-[run command]
+The component is designed to be easily integrated into any web page. You can modify the content and styles in the  `index.html`  and  `style.css`  files to suit your needs.
+
+### Demo
+
+A live demo of the project can be viewed at: [Live Demo Link]
+
 ### Contributing
 
 If you would like to contribute to this project, please follow these steps:
@@ -48,7 +59,7 @@ This project is licensed under the [License Name]. See the LICENSE file for more
 
 If you have any questions or inquiries, you can reach me at:
 
-- Email: [your email]
-- GitHub: [your GitHub link]
+- Email: [mohamedsaad20061@gmail.com]
+- GitHub: []
 
-Thank you for your interest in the [Project Name]!
+Thank you for your interest in the Stats Preview Card Component project!
